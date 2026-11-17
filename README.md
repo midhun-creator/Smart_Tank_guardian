@@ -312,5 +312,5 @@ Smart_Tank_Guardian/
 </p>
 
 <p align="center">
-  Made by <a href="https://github.com/anil7-max"><b>anil7-max</b></a> · Released under the <a href="LICENSE">MIT License</a>
+  Made by <a href="https://github.com/midhun-creator"><b>midhun-creator</b></a> · First published on GitHub by <a href="https://github.com/anil7-max">anil7-max</a> · Released under the <a href="LICENSE">MIT License</a>
 </p>
